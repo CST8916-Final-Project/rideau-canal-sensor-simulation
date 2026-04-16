@@ -33,6 +33,12 @@ Each message contains:
 - Azure IoT Hub device connection strings
 - Required Python packages from `requirements.txt`
 
+## Environment Variables
+
+IOTHUB_DEVICE_CONNECTION_STRING_DOWS_LAKE
+IOTHUB_DEVICE_CONNECTION_STRING_FIFTH_AVE
+IOTHUB_DEVICE_CONNECTION_STRING_NAC
+
 ## Installation
 
 ```bash
